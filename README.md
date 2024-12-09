@@ -1,4 +1,7 @@
 ## Algorithms used in "Integer Traffic Assignment Problem: Algorithms and Insights on Random Graphs"
+Credits : Giovanni Piccioli, Rayan Harfouche, Lenka Zdeborova
+
+
 The integer traffic assignment problem (ITAP) is a routing problem consisting of finding the optimal paths with given endpoints, so to minimize the congestion on a graph.
 
 Each folder is named after the respective algorithm and contains a file with a python implementation of tha algorithm as well as a jupyter notebook that provides an example of its usage.
